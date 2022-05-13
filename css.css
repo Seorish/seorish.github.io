@@ -1,0 +1,202 @@
+
+body {
+    font-family: 'Do Hyeon', sans-serif;
+
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    background-color: rgb(248, 244, 238);
+}
+
+.under {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 35pt;
+    color: rgb(248, 228, 170);
+    font-style: italic;
+    text-shadow: 3px 2px rgb(23, 23, 23);
+
+}
+.contact {
+    height: 40%;
+}
+.num, .email {
+    margin-left: 60px;
+    margin-top: 0;
+}
+.insta {
+    position: static;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+
+.git {
+    position: relative;
+    top: -73px;
+    left: 300px;
+    margin-left: 60px;
+  
+}
+
+.blog {
+    position: relative;
+    top: -146px;
+    left : 600px;
+    margin-left: 60px;
+
+}
+
+.edu {
+    height: 40%;
+}
+.content {
+    overflow: hidden;
+}
+.title_text {
+    float: left;
+
+}
+
+.year_text {
+    float: right;
+    text-shadow: 2px 2px 2px rgb(170, 170, 170);
+    font-style: italic;
+    
+}
+
+.abp {
+    color: gray;
+    font-style: italic;
+    font-weight:normal;
+    font-size: 13pt;
+    margin-top: 0px;
+}
+
+.ready {
+    text-align: center;
+}
+
+.one {
+    height: 50%;
+}
+
+h1 {
+    width: 10%;
+
+}
+
+
+
+.div1 {
+    position: static;
+    margin-left: 50px;
+}
+
+.div_name {
+    margin-bottom: 100px;
+}
+
+
+
+.div2 {
+    position: relative;
+    top : -195px;
+    left: 300px;
+    
+}
+.div_email {
+    margin-bottom: 100px;
+}
+.div3 {
+    position: relative;
+    top : -390px;
+    left: 600px
+}
+
+.div_mbti {
+    margin-bottom: 100px;
+}
+
+
+
+nav {
+    width: 25%;
+    background-color: rgb(174, 170, 168);
+    height: 100%;
+}
+
+.img {
+    display: block;
+    margin: auto;
+    margin-top: 40px;
+}
+
+ul {
+    list-style-type: none;
+    margin-top: 20px;
+}
+
+li {
+     color: rgb(237, 233, 233);
+     text-align: center;
+     margin-right: 45px;
+     padding: 10px 30px;
+
+
+}
+
+li a {
+    text-decoration: none;
+    color: rgb(247, 243, 243);
+}
+
+h1 {
+
+    text-shadow: 2px 2px 2px gray;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.297);
+}   
+
+.right {
+    width: 80%;
+    margin: 10px;   
+    margin-top: 0; 
+}
+
+.name {
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 30px;
+    color: white;
+}
+
+.pic {
+    width: 1cm;
+    height: 1cm;
+    float: left;
+    margin-right: 15px;
+    
+}
+
+.cat {
+    font-size: 13pt;
+    font-weight: bold;
+    margin-bottom: 0;
+
+}
+
+
+
+.und {
+    font-size: 9pt;
+    color: rgba(128, 128, 128, 0.6);
+    margin-left: 40px;
+    margin-top: 0;
+}
+
+
